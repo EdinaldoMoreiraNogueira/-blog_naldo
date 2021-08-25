@@ -1,0 +1,16 @@
+#navbarSupportedContent{
+  padding: 20px;
+  border-radius:15px;
+  border-top: 15px;
+  margin: 20px;
+}
+
+.nav-link{
+  margin-right:50px ;
+}
+
+.form-inline my-2 my-lg-0{
+  display: flex;
+  flex-direction: row;
+  padding:30px;
+}
